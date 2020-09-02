@@ -1,6 +1,6 @@
 # Demo
 
-Some description?
+This repository was created for educational purposes.
 
 ## Subheader
 
